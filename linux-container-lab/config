@@ -1,4 +1,4 @@
-# NOTE - This is my  /var/lib/lxc/config file 
+# NOTE - This is my  /var/lib/lxc/Con/config file 
 # Template used to create this container: /usr/share/lxc/templates/lxc-download
 # Parameters passed to the template:
 # For additional config options, please look at lxc.container.conf(5)
