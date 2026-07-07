@@ -60,7 +60,7 @@ Remote clients can no longer access the web server.
 
 **After**
 
-![After](images/After%20rejecting(2).png)
+![After](images/After%20rejecting.png)
 
 ---
 
